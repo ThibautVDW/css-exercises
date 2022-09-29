@@ -1,0 +1,19 @@
+/* style.CSS */
+
+.button-one,
+.button-two {
+    font-weight: bold;
+    font-variant: times new roman;
+
+}
+
+.button-one {
+    background-color: black;
+    color: white;
+
+}
+
+.button-two {
+    background-color: yellow;
+    color: black;
+}
